@@ -19,3 +19,7 @@ Route::get('home', [
 	'as'   => 'home',
 	'uses' => 'HomeController@index'
 ]);
+
+Route::get('simular-financiamento', 'SimuladorFinanciamentoController@index');
+Route::get('instrucoes-iniciais', 'InstrucoesIniciaisController@index');
+Route::get('instrucoes-iniciais/create', 'InstrucoesIniciaisController@create');

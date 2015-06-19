@@ -1,0 +1,16 @@
+-? Os juros são aplicados de forma geral? Dependendo do modelo a aliquota varia?
+-? Quais tributos incidem sobre o valor total financiado de um veículo além do IOF?
+-? Quanto custa o emplacamento da moto? Varia de modelo para modelo?
+
+# moto
+Nome
+Preço/Valor total
+Foto
+-? Existe alguma informação técnica espeçífica sobre a moto que é pra ser passado para o user?
+
+# usuário
+Nome
+E-mail
+Telefone
+Moto desejada
+Deseja ser contactado
